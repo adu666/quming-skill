@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "子衿",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "青青子衿，悠悠我心",
+    "meaning": "文雅有才情之人，出自对学识渊博者的思念"
+  },
+  {
+    "name": "子佩",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "青青子佩，悠悠我思",
+    "meaning": "指有德行修养的人，佩为玉佩，象征品德"
+  },
+  {
+    "name": "思成",
+    "gender": "male",
+    "source": "诗经·商颂",
+    "quote": "汤孙奏假，绥我思成",
+    "meaning": "思念而成就，寓意思虑周全必有所成"
+  },
+  {
+    "name": "维桢",
+    "gender": "male",
+    "source": "诗经·大雅",
+    "quote": "王国克生，维周之桢",
+    "meaning": "国家的栋梁之材，桢为筑墙所用的立柱"
+  },
+  {
+    "name": "缉熙",
+    "gender": "male",
+    "source": "诗经·文王",
+    "quote": "穆穆文王，于缉熙敬止",
+    "meaning": "光明正大，缉熙意为继续光明"
+  },
+  {
+    "name": "穆清",
+    "gender": "neutral",
+    "source": "诗经·烝民",
+    "quote": "吉甫作诵，穆如清风",
+    "meaning": "和美清朗，如清风般温和宜人"
+  },
+  {
+    "name": "其琛",
+    "gender": "male",
+    "source": "诗经·鲁颂",
+    "quote": "来献其琛，不外邦之珍",
+    "meaning": "珍贵的宝物，琛指珍宝"
+  },
+  {
+    "name": "斯年",
+    "gender": "male",
+    "source": "诗经·大雅",
+    "quote": "于万斯年，受天之祜",
+    "meaning": "千万年长久，寓意福寿绵长"
+  },
+  {
+    "name": "静姝",
+    "gender": "female",
+    "source": "诗经·邶风",
+    "quote": "静女其姝，俟我于城隅",
+    "meaning": "娴静美好，姝意为美丽"
+  },
+  {
+    "name": "清扬",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "有美一人，清扬婉兮",
+    "meaning": "眉目清朗飞扬，形容容貌清秀"
+  },
+  {
+    "name": "婉兮",
+    "gender": "female",
+    "source": "诗经·郑风",
+    "quote": "有美一人，清扬婉兮",
+    "meaning": "温婉美好，兮为语气助词"
+  },
+  {
+    "name": "琼华",
+    "gender": "female",
+    "source": "诗经·齐风",
+    "quote": "尚之以琼华乎而",
+    "meaning": "美玉的光华，琼为美玉"
+  },
+  {
+    "name": "令仪",
+    "gender": "female",
+    "source": "诗经·小雅",
+    "quote": "岂弟君子，莫不令仪",
+    "meaning": "美好的仪态风度，令意为美好"
+  },
+  {
+    "name": "柔嘉",
+    "gender": "female",
+    "source": "诗经·大雅",
+    "quote": "仲山甫之德，柔嘉维则",
+    "meaning": "温柔美善，嘉意为美好"
+  },
+  {
+    "name": "懿德",
+    "gender": "neutral",
+    "source": "诗经·烝民",
+    "quote": "民之秉彝，好是懿德",
+    "meaning": "美好的品德，懿意为美好"
+  },
+  {
+    "name": "徽音",
+    "gender": "female",
+    "source": "诗经·大雅",
+    "quote": "大姒嗣徽音，则百斯男",
+    "meaning": "美誉、佳音，徽意为美好"
+  },
+  {
+    "name": "和铃",
+    "gender": "neutral",
+    "source": "诗经·周颂",
+    "quote": "龙旂阳阳，和铃央央",
+    "meaning": "和谐的铃声，象征和谐美好"
+  },
+  {
+    "name": "翰飞",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "宛彼鸣鸠，翰飞戾天",
+    "meaning": "高飞远翔，翰指羽翼"
+  },
+  {
+    "name": "攸宁",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "君子攸宁",
+    "meaning": "安居、安宁，攸为所"
+  },
+  {
+    "name": "嘉卉",
+    "gender": "female",
+    "source": "诗经·小雅",
+    "quote": "山有嘉卉，侯栗侯梅",
+    "meaning": "美好的花草，卉为草的总称"
+  },
+  {
+    "name": "灵雨",
+    "gender": "neutral",
+    "source": "诗经·鄘风",
+    "quote": "灵雨既零",
+    "meaning": "及时好雨，灵意为善、好"
+  },
+  {
+    "name": "英英",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "英英白云，露彼菅茅",
+    "meaning": "轻盈明亮的样子，形容白云"
+  },
+  {
+    "name": "芃芃",
+    "gender": "neutral",
+    "source": "诗经·鄘风",
+    "quote": "芃芃其麦",
+    "meaning": "草木茂盛的样子，生机勃勃"
+  },
+  {
+    "name": "燕婉",
+    "gender": "female",
+    "source": "诗经·邶风",
+    "quote": "燕婉之求",
+    "meaning": "温和美好，婉意为柔顺"
+  },
+  {
+    "name": "如雪",
+    "gender": "female",
+    "source": "诗经·曹风",
+    "quote": "蜉蝣掘阅，麻衣如雪",
+    "meaning": "洁白如雪，纯净高洁"
+  },
+  {
+    "name": "零露",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "野有蔓草，零露漙兮",
+    "meaning": "降落的露水，清新纯净"
+  },
+  {
+    "name": "采薇",
+    "gender": "female",
+    "source": "诗经·小雅",
+    "quote": "采薇采薇，薇亦作止",
+    "meaning": "采摘野菜，象征隐逸高洁"
+  },
+  {
+    "name": "鹿芩",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "呦呦鹿鸣，食野之芩",
+    "meaning": "鹿食芩草，和谐自然"
+  },
+  {
+    "name": "鹤鸣",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "鹤鸣于九皋，声闻于天",
+    "meaning": "鹤在高处鸣叫，声名远播"
+  },
+  {
+    "name": "景行",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "高山仰止，景行行止",
+    "meaning": "大路、大道，也指崇高的德行"
+  },
+  {
+    "name": "朝宗",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "沔彼流水，朝宗于海",
+    "meaning": "百川归海，比喻众望所归"
+  },
+  {
+    "name": "邦彦",
+    "gender": "male",
+    "source": "诗经·郑风",
+    "quote": "彼其之子，邦之彦兮",
+    "meaning": "国家的贤才俊彦"
+  },
+  {
+    "name": "孔阳",
+    "gender": "male",
+    "source": "诗经·豳风",
+    "quote": "载玄载黄，我朱孔阳",
+    "meaning": "非常鲜明灿烂，孔意为很、非常"
+  },
+  {
+    "name": "纯熙",
+    "gender": "neutral",
+    "source": "诗经·周颂",
+    "quote": "时纯熙矣，是用大介",
+    "meaning": "光明广大，纯熙意为光明"
+  },
+  {
+    "name": "骏声",
+    "gender": "male",
+    "source": "诗经·大雅",
+    "quote": "文王有声，骏有声",
+    "meaning": "宏大的声誉，骏意为大"
+  },
+  {
+    "name": "显允",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "显允君子，莫不令德",
+    "meaning": "光明诚信，显为明显，允为诚信"
+  },
+  {
+    "name": "柔惠",
+    "gender": "female",
+    "source": "诗经·大雅",
+    "quote": "申伯之德，柔惠且直",
+    "meaning": "温柔仁惠，惠为仁爱"
+  },
+  {
+    "name": "思柔",
+    "gender": "female",
+    "source": "诗经·大雅",
+    "quote": "旨酒思柔",
+    "meaning": "思绪柔和，性情温婉"
+  },
+  {
+    "name": "如云",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "出其东门，有女如云",
+    "meaning": "像云一样众多或飘逸"
+  },
+  {
+    "name": "舜华",
+    "gender": "female",
+    "source": "诗经·郑风",
+    "quote": "有女同车，颜如舜华",
+    "meaning": "像木槿花一样美丽，舜华即木槿"
+  },
+  {
+    "name": "琼琚",
+    "gender": "female",
+    "source": "诗经·卫风",
+    "quote": "投我以木瓜，报之以琼琚",
+    "meaning": "美玉做的佩饰，珍贵的回赠"
+  },
+  {
+    "name": "琼玖",
+    "gender": "female",
+    "source": "诗经·卫风",
+    "quote": "投我以木李，报之以琼玖",
+    "meaning": "黑色的美玉，珍贵之物"
+  },
+  {
+    "name": "甘棠",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "蔽芾甘棠，勿翦勿伐",
+    "meaning": "棠梨树，召伯所憩，象征德政"
+  },
+  {
+    "name": "柏舟",
+    "gender": "male",
+    "source": "诗经·邶风",
+    "quote": "泛彼柏舟，亦泛其流",
+    "meaning": "柏木做的舟，象征坚贞"
+  },
+  {
+    "name": "绿竹",
+    "gender": "neutral",
+    "source": "诗经·卫风",
+    "quote": "瞻彼淇奥，绿竹猗猗",
+    "meaning": "绿色的竹子，清雅高洁"
+  },
+  {
+    "name": "淇奥",
+    "gender": "male",
+    "source": "诗经·卫风",
+    "quote": "瞻彼淇奥，绿竹猗猗",
+    "meaning": "淇水的曲岸，君子所处之地"
+  },
+  {
+    "name": "昊天",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "浩浩昊天，不骏其德",
+    "meaning": "广大的天空，昊为广阔"
+  },
+  {
+    "name": "天飞",
+    "gender": "male",
+    "source": "诗经·邶风",
+    "quote": "燕燕于飞，颉之颃之",
+    "meaning": "在天空飞翔，志向高远"
+  },
+  {
+    "name": "凯风",
+    "gender": "neutral",
+    "source": "诗经·邶风",
+    "quote": "凯风自南，吹彼棘心",
+    "meaning": "和煦的南风，象征母爱"
+  },
+  {
+    "name": "燕飞",
+    "gender": "female",
+    "source": "诗经·邶风",
+    "quote": "燕燕于飞，差池其羽",
+    "meaning": "燕子飞翔，轻盈美好"
+  },
+  {
+    "name": "如云",
+    "gender": "neutral",
+    "source": "诗经·郑风",
+    "quote": "有女如云",
+    "meaning": "像云一样众多或飘逸"
+  },
+  {
+    "name": "思服",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "求之不得，寤寐思服",
+    "meaning": "思念、思念不止"
+  },
+  {
+    "name": "悠哉",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "悠哉悠哉，辗转反侧",
+    "meaning": "思念深长的样子"
+  },
+  {
+    "name": "琴瑟",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "窈窕淑女，琴瑟友之",
+    "meaning": "两种乐器，比喻和谐美好"
+  },
+  {
+    "name": "钟鼓",
+    "gender": "male",
+    "source": "诗经·周南",
+    "quote": "窈窕淑女，钟鼓乐之",
+    "meaning": "钟和鼓，古代乐器，隆重喜庆"
+  },
+  {
+    "name": "蒹葭",
+    "gender": "neutral",
+    "source": "诗经·秦风",
+    "quote": "蒹葭苍苍，白露为霜",
+    "meaning": "芦苇，象征追寻与思念"
+  },
+  {
+    "name": "白露",
+    "gender": "neutral",
+    "source": "诗经·秦风",
+    "quote": "蒹葭苍苍，白露为霜",
+    "meaning": "秋天的露水，节气名"
+  },
+  {
+    "name": "伊人",
+    "gender": "neutral",
+    "source": "诗经·秦风",
+    "quote": "所谓伊人，在水一方",
+    "meaning": "那个人，意中人"
+  },
+  {
+    "name": "溯洄",
+    "gender": "neutral",
+    "source": "诗经·秦风",
+    "quote": "溯洄从之，道阻且长",
+    "meaning": "逆流而上，追求理想"
+  },
+  {
+    "name": "溯游",
+    "gender": "neutral",
+    "source": "诗经·秦风",
+    "quote": "溯游从之，宛在水中央",
+    "meaning": "顺流而下，追寻目标"
+  },
+  {
+    "name": "桃夭",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "桃之夭夭，灼灼其华",
+    "meaning": "桃花盛开，形容新娘美丽"
+  },
+  {
+    "name": "灼华",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "桃之夭夭，灼灼其华",
+    "meaning": "光彩鲜明的样子"
+  },
+  {
+    "name": "宜家",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "之子于归，宜其室家",
+    "meaning": "使家庭和睦，宜为适合"
+  },
+  {
+    "name": "芣苢",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "采采芣苢，薄言采之",
+    "meaning": "车前草，象征多子"
+  },
+  {
+    "name": "卷耳",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "采采卷耳，不盈顷筐",
+    "meaning": "苍耳，一种植物"
+  },
+  {
+    "name": "樛木",
+    "gender": "male",
+    "source": "诗经·周南",
+    "quote": "南有樛木，葛藟累之",
+    "meaning": "弯曲的树，喻君子福泽"
+  },
+  {
+    "name": "螽斯",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "螽斯羽，诜诜兮",
+    "meaning": "蝗虫类昆虫，喻多子多福"
+  },
+  {
+    "name": "麟趾",
+    "gender": "male",
+    "source": "诗经·周南",
+    "quote": "麟之趾，振振公子",
+    "meaning": "麒麟的足，喻公子贤德"
+  },
+  {
+    "name": "甘雨",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "以祈甘雨，以介我稷黍",
+    "meaning": "及时雨，滋润万物"
+  },
+  {
+    "name": "丰年",
+    "gender": "male",
+    "source": "诗经·周颂",
+    "quote": "丰年多黍多稌",
+    "meaning": "丰收的年景"
+  },
+  {
+    "name": "振振",
+    "gender": "male",
+    "source": "诗经·周南",
+    "quote": "麟之趾，振振公子",
+    "meaning": "仁厚的样子"
+  },
+  {
+    "name": "仁厚",
+    "gender": "male",
+    "source": "诗经·周南",
+    "quote": "振振公子",
+    "meaning": "仁爱宽厚"
+  },
+  {
+    "name": "于归",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "之子于归",
+    "meaning": "女子出嫁"
+  },
+  {
+    "name": "窈窕",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "窈窕淑女",
+    "meaning": "文静美好的样子"
+  },
+  {
+    "name": "淑女",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "窈窕淑女",
+    "meaning": "善良美好的女子"
+  },
+  {
+    "name": "参差",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "参差荇菜",
+    "meaning": "长短不齐的样子"
+  },
+  {
+    "name": "荇菜",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "参差荇菜",
+    "meaning": "一种水生植物"
+  },
+  {
+    "name": "流之",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "左右流之",
+    "meaning": "求取"
+  },
+  {
+    "name": "采之",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "左右采之",
+    "meaning": "采摘"
+  },
+  {
+    "name": "芼之",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "左右芼之",
+    "meaning": "挑选"
+  },
+  {
+    "name": "友之",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "琴瑟友之",
+    "meaning": "亲近友好"
+  },
+  {
+    "name": "乐之",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "钟鼓乐之",
+    "meaning": "使之快乐"
+  },
+  {
+    "name": "关雎",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "关关雎鸠",
+    "meaning": "雎鸠鸟，象征爱情"
+  },
+  {
+    "name": "雎鸠",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "关关雎鸠",
+    "meaning": "一种水鸟"
+  },
+  {
+    "name": "河洲",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "在河之洲",
+    "meaning": "河中的陆地"
+  },
+  {
+    "name": "好逑",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "君子好逑",
+    "meaning": "好的配偶"
+  },
+  {
+    "name": "葛覃",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "葛之覃兮",
+    "meaning": "葛藤蔓延"
+  },
+  {
+    "name": "黄鸟",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "黄鸟于飞",
+    "meaning": "黄色的鸟"
+  },
+  {
+    "name": "灌木",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "集于灌木",
+    "meaning": "丛生的树木"
+  },
+  {
+    "name": "喈喈",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "其鸣喈喈",
+    "meaning": "鸟鸣声"
+  },
+  {
+    "name": "刈濩",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "是刈是濩",
+    "meaning": "割取煮炼"
+  },
+  {
+    "name": "絺綌",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "为絺为綌",
+    "meaning": "粗细葛布"
+  },
+  {
+    "name": "言告",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "言告师氏",
+    "meaning": "告诉"
+  },
+  {
+    "name": "薄污",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "薄污我私",
+    "meaning": "洗净"
+  },
+  {
+    "name": "害澣",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "害澣害否",
+    "meaning": "洗或不洗"
+  },
+  {
+    "name": "归宁",
+    "gender": "female",
+    "source": "诗经·周南",
+    "quote": "归宁父母",
+    "meaning": "回娘家探亲"
+  },
+  {
+    "name": "汉广",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "汉有游女",
+    "meaning": "汉水宽广"
+  },
+  {
+    "name": "乔木",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "南有乔木",
+    "meaning": "高大的树木"
+  },
+  {
+    "name": "息偃",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "不可息偃",
+    "meaning": "休息"
+  },
+  {
+    "name": "休思",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "不可休思",
+    "meaning": "休息"
+  },
+  {
+    "name": "方思",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "不可方思",
+    "meaning": "乘筏而渡"
+  },
+  {
+    "name": "翘翘",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "翘翘错薪",
+    "meaning": "高出的样子"
+  },
+  {
+    "name": "错薪",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "翘翘错薪",
+    "meaning": "杂乱的柴草"
+  },
+  {
+    "name": "刈楚",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "言刈其楚",
+    "meaning": "割取荆条"
+  },
+  {
+    "name": "之子",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "之子于归",
+    "meaning": "这个人"
+  },
+  {
+    "name": "秣马",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "言秣其马",
+    "meaning": "喂马"
+  },
+  {
+    "name": "驹驹",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "言秣其驹",
+    "meaning": "小马"
+  },
+  {
+    "name": "汝坟",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "遵彼汝坟",
+    "meaning": "汝水大堤"
+  },
+  {
+    "name": "条枚",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "伐其条枚",
+    "meaning": "树枝树干"
+  },
+  {
+    "name": "条肄",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "伐其条肄",
+    "meaning": "再生的树枝"
+  },
+  {
+    "name": "惄如",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "惄如调饥",
+    "meaning": "饥饿的样子"
+  },
+  {
+    "name": "调饥",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "惄如调饥",
+    "meaning": "早晨的饥饿"
+  },
+  {
+    "name": "肄业",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "既见君子，不我遐弃",
+    "meaning": "学习（引申）"
+  },
+  {
+    "name": "鲂鱼",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "鲂鱼赪尾",
+    "meaning": "鳊鱼"
+  },
+  {
+    "name": "赪尾",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "鲂鱼赪尾",
+    "meaning": "红色的尾巴"
+  },
+  {
+    "name": "燬室",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "王室如燬",
+    "meaning": "如火焚毁"
+  },
+  {
+    "name": "孔迩",
+    "gender": "neutral",
+    "source": "诗经·周南",
+    "quote": "父母孔迩",
+    "meaning": "很近"
+  },
+  {
+    "name": "维鹊",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维鹊有巢",
+    "meaning": "喜鹊"
+  },
+  {
+    "name": "有巢",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维鹊有巢",
+    "meaning": "有窝"
+  },
+  {
+    "name": "居之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维鸠居之",
+    "meaning": "居住"
+  },
+  {
+    "name": "方之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维鸠方之",
+    "meaning": "占据"
+  },
+  {
+    "name": "盈之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维鸠盈之",
+    "meaning": "充满"
+  },
+  {
+    "name": "百两",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "百两御之",
+    "meaning": "百辆车"
+  },
+  {
+    "name": "将之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "百两将之",
+    "meaning": "护送"
+  },
+  {
+    "name": "成之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "百两成之",
+    "meaning": "完成婚礼"
+  },
+  {
+    "name": "摽梅",
+    "gender": "female",
+    "source": "诗经·召南",
+    "quote": "摽有梅",
+    "meaning": "落下的梅子"
+  },
+  {
+    "name": "其实",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "其实七兮",
+    "meaning": "它的果实"
+  },
+  {
+    "name": "迨吉",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "迨其吉兮",
+    "meaning": "趁良辰吉日"
+  },
+  {
+    "name": "今兮",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "迨其今兮",
+    "meaning": "趁现在"
+  },
+  {
+    "name": "顷筐",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "顷筐塈之",
+    "meaning": "斜口的筐"
+  },
+  {
+    "name": "塈之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "顷筐塈之",
+    "meaning": "取"
+  },
+  {
+    "name": "维叶",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维叶萋萋",
+    "meaning": "那叶子"
+  },
+  {
+    "name": "萋萋",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维叶萋萋",
+    "meaning": "茂盛的样子"
+  },
+  {
+    "name": "喈喈",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "其鸣喈喈",
+    "meaning": "鸟鸣声"
+  },
+  {
+    "name": "莫莫",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "维叶莫莫",
+    "meaning": "茂密的样子"
+  },
+  {
+    "name": "是刈",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "是刈是濩",
+    "meaning": "割取"
+  },
+  {
+    "name": "是濩",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "是刈是濩",
+    "meaning": "煮"
+  },
+  {
+    "name": "絺綌",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "为絺为綌",
+    "meaning": "粗细葛布"
+  },
+  {
+    "name": "服之",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "服之无斁",
+    "meaning": "穿着"
+  },
+  {
+    "name": "无斁",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "服之无斁",
+    "meaning": "不厌弃"
+  },
+  {
+    "name": "言告",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "言告师氏",
+    "meaning": "告诉"
+  },
+  {
+    "name": "言归",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "言告言归",
+    "meaning": "回娘家"
+  },
+  {
+    "name": "薄澣",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "薄澣我衣",
+    "meaning": "洗涤"
+  },
+  {
+    "name": "害否",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "害澣害否",
+    "meaning": "洗还是不洗"
+  },
+  {
+    "name": "羔羊",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "羔羊之皮",
+    "meaning": "小羊"
+  },
+  {
+    "name": "素丝",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "素丝五紽",
+    "meaning": "白色的丝线"
+  },
+  {
+    "name": "五紽",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "素丝五紽",
+    "meaning": "五缕"
+  },
+  {
+    "name": "五緎",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "素丝五緎",
+    "meaning": "五缕"
+  },
+  {
+    "name": "五总",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "素丝五总",
+    "meaning": "五缕"
+  },
+  {
+    "name": "委蛇",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "退食自公，委蛇委蛇",
+    "meaning": "从容自得的样子"
+  },
+  {
+    "name": "殷其",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "殷其雷",
+    "meaning": "雷声隆隆"
+  },
+  {
+    "name": "奋翼",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "莫敢或遑，振振君子",
+    "meaning": "振翅飞翔"
+  },
+  {
+    "name": "南山",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "南山有台",
+    "meaning": "南面的山"
+  },
+  {
+    "name": "有台",
+    "gender": "neutral",
+    "source": "诗经·召南",
+    "quote": "南山有台",
+    "meaning": "有莎草"
+  },
+  {
+    "name": "乐只",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "乐只君子",
+    "meaning": "快乐啊"
+  },
+  {
+    "name": "邦家",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "邦家之基",
+    "meaning": "国家的根基"
+  },
+  {
+    "name": "万寿",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "万寿无期",
+    "meaning": "长寿"
+  },
+  {
+    "name": "无期",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "万寿无期",
+    "meaning": "没有期限"
+  },
+  {
+    "name": "保艾",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "保艾尔后",
+    "meaning": "保护养育"
+  },
+  {
+    "name": "尔后",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "保艾尔后",
+    "meaning": "你的后代"
+  },
+  {
+    "name": "蓼萧",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "蓼彼萧斯",
+    "meaning": "高大的艾蒿"
+  },
+  {
+    "name": "湛露",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "湛湛露斯",
+    "meaning": "浓重的露水"
+  },
+  {
+    "name": "彤弓",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "彤弓弨兮",
+    "meaning": "红色的弓"
+  },
+  {
+    "name": "菁菁",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "菁菁者莪",
+    "meaning": "茂盛的样子"
+  },
+  {
+    "name": "者莪",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "菁菁者莪",
+    "meaning": "那莪蒿"
+  },
+  {
+    "name": "沔彼",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "沔彼流水",
+    "meaning": "那满溢的"
+  },
+  {
+    "name": "朝宗",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "朝宗于海",
+    "meaning": "百川归海"
+  },
+  {
+    "name": "沔水",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "沔彼流水",
+    "meaning": "满溢的水"
+  },
+  {
+    "name": "鸿飞",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "鸿飞遵渚",
+    "meaning": "大雁飞翔"
+  },
+  {
+    "name": "遵渚",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "鸿飞遵渚",
+    "meaning": "沿着水中小洲"
+  },
+  {
+    "name": "愿言",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "愿言思子",
+    "meaning": "思念的样子"
+  },
+  {
+    "name": "思子",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "愿言思子",
+    "meaning": "思念你"
+  },
+  {
+    "name": "中心",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "中心养养",
+    "meaning": "心中"
+  },
+  {
+    "name": "驾言",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "驾言出游",
+    "meaning": "驾车"
+  },
+  {
+    "name": "出游",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "驾言出游",
+    "meaning": "外出游玩"
+  },
+  {
+    "name": "以写",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "以写我忧",
+    "meaning": "消除"
+  },
+  {
+    "name": "我忧",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "以写我忧",
+    "meaning": "我的忧愁"
+  },
+  {
+    "name": "鹤鸣",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "鹤鸣于九皋",
+    "meaning": "鹤鸣叫"
+  },
+  {
+    "name": "九皋",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "鹤鸣于九皋",
+    "meaning": "深远的沼泽"
+  },
+  {
+    "name": "声闻",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "声闻于天",
+    "meaning": "名声传播"
+  },
+  {
+    "name": "鱼在",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "鱼在于渚",
+    "meaning": "鱼在"
+  },
+  {
+    "name": "他山",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "他山之石",
+    "meaning": "别的山"
+  },
+  {
+    "name": "攻玉",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "可以攻玉",
+    "meaning": "琢磨玉器"
+  },
+  {
+    "name": "祈父",
+    "gender": "male",
+    "source": "诗经·小雅",
+    "quote": "祈父予王之爪牙",
+    "meaning": "掌管军政的官"
+  },
+  {
+    "name": "爪牙",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "予王之爪牙",
+    "meaning": "猛将（古义）"
+  },
+  {
+    "name": "靡所",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "靡所止居",
+    "meaning": "没有地方"
+  },
+  {
+    "name": "止居",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "靡所止居",
+    "meaning": "居住"
+  },
+  {
+    "name": "转予",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "转予于恤",
+    "meaning": "陷入"
+  },
+  {
+    "name": "于恤",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "转予于恤",
+    "meaning": "到忧难中"
+  },
+  {
+    "name": "有母",
+    "gender": "female",
+    "source": "诗经·小雅",
+    "quote": "有母之尸饔",
+    "meaning": "有母亲"
+  },
+  {
+    "name": "尸饔",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "有母之尸饔",
+    "meaning": "主持家务"
+  },
+  {
+    "name": "皎皎",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "皎皎白驹",
+    "meaning": "洁白明亮"
+  },
+  {
+    "name": "白驹",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "皎皎白驹",
+    "meaning": "白色小马"
+  },
+  {
+    "name": "场苗",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "食我场苗",
+    "meaning": "园圃中的苗"
+  },
+  {
+    "name": "絷之",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "絷之维之",
+    "meaning": "拴住"
+  },
+  {
+    "name": "维之",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "絷之维之",
+    "meaning": "系住"
+  },
+  {
+    "name": "永今",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "以永今朝",
+    "meaning": "延长到今天"
+  },
+  {
+    "name": "今朝",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "以永今朝",
+    "meaning": "今天"
+  },
+  {
+    "name": "逸豫",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "逸豫无期",
+    "meaning": "安乐"
+  },
+  {
+    "name": "慎优",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "慎尔优游",
+    "meaning": "谨慎你的游乐"
+  },
+  {
+    "name": "勉遁",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "勉尔遁思",
+    "meaning": "努力隐退"
+  },
+  {
+    "name": "空谷",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "在彼空谷",
+    "meaning": "空旷的山谷"
+  },
+  {
+    "name": "生刍",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "生刍一束",
+    "meaning": "新鲜的草"
+  },
+  {
+    "name": "其人",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "其人如玉",
+    "meaning": "那个人"
+  },
+  {
+    "name": "如玉",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "其人如玉",
+    "meaning": "像玉一样"
+  },
+  {
+    "name": "毋遐",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "毋金玉尔音，而有遐心",
+    "meaning": "不要疏远"
+  },
+  {
+    "name": "遐心",
+    "gender": "neutral",
+    "source": "诗经·小雅",
+    "quote": "而有遐心",
+    "meaning": "疏远的心"
+  }
+]
